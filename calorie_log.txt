@@ -1,0 +1,40 @@
+Welcome to the Daily Calorie Tracker
+This program helps you to track your daily calorie intake.
+
+Enter how many meals you had today:  3
+
+Meal 1
+Enter meal name (for example Breakfast, Lunch):  Fruits
+Enter calorie amount:  100
+
+Meal 2
+Enter meal name (for example Breakfast, Lunch):  daal chawal 
+Enter calorie amount:  200
+
+Meal 3
+Enter meal name (for example Breakfast, Lunch):  sabzi roti
+Enter calorie amount:  200
+
+Enter your daily calorie limit:  800
+
+----------------------------------------
+           DAILY CALORIE REPORT          
+----------------------------------------
+Meal Name	Calories
+----------------------------------------
+Fruits 		 100.0
+daal chawal  		 200.0
+sabzi roti 		 200.0
+----------------------------------------
+Total:		 500.0
+Average:	 166.67
+----------------------------------------
+You are within your daily calorie limit.
+
+Do you want to save this report to a file? (yes/no):  yes
+Report saved to calorie_log.txt
+
+Thank you for using the Daily Calorie Tracker.
+
+
+
